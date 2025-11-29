@@ -60,7 +60,6 @@ data/preferences/*.jsonl
 !data/.gitkeep
 
 # Model outputs
-models/
 outputs/
 
 # OS
